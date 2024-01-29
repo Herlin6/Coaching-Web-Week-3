@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family:'Courier New', Courier, monospace;
+  font-size:30px;
+	background-image: url("https://media.istockphoto.com/id/1197978961/vector/seamless-pattern-with-pink-pet-pawprints-and-hearts.jpg?s=612x612&w=0&k=20&c=oAFo9KLX9uAQtptrXKWbfaGXFR5Jl7NyFshRlYwjA0s=");
+	background-size: 30%;
+}
+img{
+  width: 250px;
+}
+img:hover{
+  opacity:90%;
+}
+table,tr,td{
+  border:0px solid;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  background-image:linear-gradient(to bottom, rgba(255, 185, 185, 0.5),rgba(248, 255, 199, 0.3));
+  border-radius:25px;
+  margin-bottom:15px;
+}
+td{
+  width: 280px;
+}
+h1{
+  padding:20px;
+  font-size:70px;
+  font-family:'Courier New', Courier, monospace;
+}
